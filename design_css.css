@@ -1,0 +1,26 @@
+
+.pera1{
+    background-color: aqua;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 5px solid;
+
+    padding: 20px 10px 50px 10px;
+    border-radius: 20px;
+}
+
+.title{
+    
+
+   
+    text-align: center;
+    
+    
+}
+
+.name{
+    color: brown;
+    font-size: large;
+}
